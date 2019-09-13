@@ -8,7 +8,7 @@ First start by importing the "types" folder you have created.
 package nameservice
 
 import (
-	"github.com/cosmos/sdk-application-tutorial/x/nameservice/types"
+	"github.com/zhiqiang-bianjie/cmp-chain/x/nameservice/types"
 )
 ```
 
