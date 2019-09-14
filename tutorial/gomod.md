@@ -85,7 +85,7 @@ Golang has a few dependency management tools. In this tutorial you will be using
 > _*NOTE*_: If you are following along in your own repo you will need to change the module path to reflect that (`github.com/{ .Username }/{ .Project.Repo }`).
 
 ```
-module github.com/cosmos/sdk-application-tutorial
+module github.com/zhiqiang-bianjie/cmp-chain/
 
 go 1.12
 
